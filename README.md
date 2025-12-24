@@ -17,6 +17,9 @@ android-gradle-init-action
 ### Related
 - https://github.com/gradle/declarative-gradle/tree/main/unified-prototype
 
+### Init Scripts
+- [ffgiff/gradle-init-scripts: Gradle init scripts/plug-ins adding checkstyle, findbugs, ktlint, pmd, sonar, doxygen, javadoc, pitest. Static checkers, documentation and mutation testing for arbitrary Android projects.](https://github.com/ffgiff/gradle-init-scripts/tree/master)
+
 ### [Gradle official template](https://docs.gradle.org/current/samples/sample_building_android_apps.html)
 ```
 plugins {
