@@ -66,3 +66,6 @@ dependencies {
 ```
 ### Notes
 - `android` cli was deprecated. It is only possible to init a gradle Android project from `gradle init` with hand-written file-replacement logic
+
+
+<!-- Security scan triggered at 2026-09-15 09:29:21 -->
